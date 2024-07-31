@@ -2,6 +2,8 @@
 
 This project is a challenge from [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)
 
+* Live-Demo: [Click-Here!](https://currency-converter-lyart-six.vercel.app/)
+
 What i've did and used:
 * Controlled States for each input
 * [FrankFurter API](https://www.frankfurter.app/) to get all the currencies and to do the conversions
@@ -10,6 +12,8 @@ What i've did and used:
 # [pt-BR]Currency Converter | React + TS + Tailwind
 
 Esse projeto é um desafio do [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)
+
+* Live-Demo: [Clique-Aqui!](https://currency-converter-lyart-six.vercel.app/)
 
 O que fiz e usei:
 * States Controlados para cada input
